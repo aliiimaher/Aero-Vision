@@ -89,8 +89,8 @@ The framework utilizes a customized F11-based model with the following features:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/aerialytic.git
-cd aerialytic
+git clone https://github.com/aliiimaher/Aero-Vision.git
+cd Aero-Vision
 ```
 
 2. Install dependencies:
