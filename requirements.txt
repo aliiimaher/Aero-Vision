@@ -1,0 +1,36 @@
+# Core Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Deep Learning Frameworks
+ultralytics>=8.0.0  # YOLO framework
+albumentations>=1.3.0  # Image augmentation
+scikit-learn>=1.3.0  # Machine learning utilities
+
+# Image Processing
+opencv-python-headless>=4.8.0  # For headless environments
+scikit-image>=0.21.0  # Additional image processing tools
+
+# Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+pyyaml>=6.0.0  # For YAML configuration files
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0  # Progress bars
+pathlib>=1.0.1
+python-dotenv>=1.0.0  # Environment variable management
+
+# Optional Dependencies
+jupyter>=1.0.0  # For notebook support
+ipython>=8.0.0  # Enhanced Python shell
+
+# GPU Support (optional)
+torch-cuda>=2.0.0  # If using CUDA 

@@ -84,13 +84,6 @@ The framework utilizes a customized F11-based model with the following features:
 - Training epochs: 2500
 - IoU threshold: 0.9
 
-### Performance Metrics
-
-- Peak Signal-to-Noise Ratio (PSNR): 32.86 dB
-- Pose loss reduction from 11 to 0.6 over 1000 epochs
-- Real-time processing capabilities
-- Efficient memory management for large datasets
-
 ## Installation
 
 1. Clone the repository:
@@ -121,16 +114,6 @@ train_model(config_path='BlockDetector/train_config.yaml')
 
 # Validate the model
 validate_model(model_path='path_to_model.pt')
-```
-
-### Line Detection
-
-```python
-# 2-class line detection
-python Line_detect_2_cls/detect.py --source path/to/image --weights path/to/weights
-
-# 4-class line detection
-python Line_detect_4_cls/detect.py --source path/to/image --weights path/to/weights
 ```
 
 ## Future Work
