@@ -105,7 +105,7 @@ Each module can be used independently or as part of the complete pipeline. Detai
 
 ### [Block Detection](BlockDetector/README.md)
 
-### [Line Detection](Line_detect_2_cls/README.md) & [Line_detect_4_cls](Line_detect_4_cls/README.md)
+### [Line Detection 2 Class](Line_detect_2_cls/README.md) & [Line Detection 4 Class](Line_detect_4_cls/README.md)
 
 ### [OBB](Library/Model/Oriented_bbox/README.md)
 
