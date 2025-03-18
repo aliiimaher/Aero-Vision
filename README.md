@@ -103,18 +103,11 @@ pip install -r requirements.txt
 
 Each module can be used independently or as part of the complete pipeline. Detailed usage instructions are available in each module's directory.
 
-### Block Detection
+### [Block Detection](BlockDetector/README.md)
 
-```python
-from BlockDetector.train import train_model
-from BlockDetector.validator import validate_model
+### [Line Detection](Line_detect_2_cls/README.md) & [Line_detect_4_cls](Line_detect_4_cls/README.md)
 
-# Train the model
-train_model(config_path='BlockDetector/train_config.yaml')
-
-# Validate the model
-validate_model(model_path='path_to_model.pt')
-```
+### [OBB](Library/Model/Oriented_bbox/README.md)
 
 ## Future Work
 

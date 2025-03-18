@@ -17,18 +17,18 @@ python train.py
 <table align="center" style="border: 1px solid black;">
     <tr>
         <td align="center">
-            <img src="../DOCME/4-1.png" alt="result1" width="200">
+            <img src="../DOCME/4-1.png" alt="result1">
         </td>
         <td align="center">
-            <img src="../DOCME/4-2.png" alt="result2" width="200">
+            <img src="../DOCME/4-2.png" alt="result2">
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="../DOCME/5-1.png" alt="result3" width="200">
+            <img src="../DOCME/5-1.png" alt="result3">
         </td>
         <td align="center">
-            <img src="../DOCME/5-2.png" alt="result4" width="200">
+            <img src="../DOCME/5-2.png" alt="result4">
         </td>
     </tr>
     <tr>
