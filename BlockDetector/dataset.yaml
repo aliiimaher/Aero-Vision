@@ -1,0 +1,7 @@
+train: /home/training/BlockDetector/physicall_Cell/train/images
+val: /home/training/BlockDetector/physicall_Cell/val/images
+nc: 4  # number of classes
+names: ['0', '1', '2', '3']  # class names
+
+# Keypoints
+kpt_shape: [22, 3] 

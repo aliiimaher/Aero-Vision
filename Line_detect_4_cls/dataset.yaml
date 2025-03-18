@@ -1,0 +1,6 @@
+
+train: /home/training/Aerialytic_AI/Graph-Extraction/dataset/train/images
+val: /home/training/Aerialytic_AI/Graph-Extraction/dataset/val/images
+
+nc: 4 
+names: ['class_0', 'class_1' , 'class_2', 'class_3']  
